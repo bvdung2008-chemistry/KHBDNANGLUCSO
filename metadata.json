@@ -1,0 +1,6 @@
+{
+  "name": "Structured Prompt",
+  "description": "A powerful tool to build, refine, and optimize LLM prompts using a structured framework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
